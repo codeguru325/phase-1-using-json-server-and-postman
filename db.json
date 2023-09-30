@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    }
+  ],
+  "drivers": [
+    {
+      "id": 4,
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": 5,
+      "name": "Alex",
+      "age": 26
+    },
+    {
+      "name": "Samuel",
+      "age": 40,
+      "id": 6
+    },
+    {
+      "name": "Bradley",
+      "age": 43,
+      "id": 7
+    }
+  ]
+}
